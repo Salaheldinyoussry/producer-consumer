@@ -1,5 +1,8 @@
 # producer-consumer
 
+<img src ='https://github.com/Salaheldinyoussry/react-sankey-chart/blob/master/pc2.JPG?raw=true' >
+
+<img src ='https://github.com/Salaheldinyoussry/react-sankey-chart/blob/master/pc4.JPG?raw=true' >
 
 the front end is  a vue cli project 
 
