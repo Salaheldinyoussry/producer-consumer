@@ -2,7 +2,7 @@
 
 <img src ='https://github.com/Salaheldinyoussry/producer-consumer/blob/master/pc2.JPG?raw=true' >
 
-<img src ='https://github.com/Salaheldinyoussry/producer-consumer/blob/master/p4.JPG?raw=true' >
+<img src ='https://github.com/Salaheldinyoussry/producer-consumer/blob/main/p4.jpg?raw=true' >
 
 the front end is  a vue cli project 
 
