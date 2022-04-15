@@ -1,6 +1,6 @@
 # producer-consumer
 
-<img src ='https://github.com/Salaheldinyoussry/producer-consumer/blob/master/pc2.JPG?raw=true' >
+<img src ='https://github.com/Salaheldinyoussry/producer-consumer/blob/main/pc2.jpg?raw=true' >
 
 <img src ='https://github.com/Salaheldinyoussry/producer-consumer/blob/main/p4.jpg?raw=true' >
 
